@@ -1,0 +1,6 @@
+Short description of commit
+
+Longer explanation of the motivation for the change
+
+Fixes-Bug: Enter bu-id or delete line
+Implements-Requirment: Enter requirment-id or delete line
